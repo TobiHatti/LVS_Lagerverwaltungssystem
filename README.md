@@ -25,9 +25,9 @@ Multi-Platform storage management system
 ![image](https://github.com/TobiHatti/LVS_Lagerverwaltungssystem/blob/master/LVS_Sample_03.png)
 
 ##### Developed by:
-- Felix Lerchner
-- Manuel Weißböck
-- Tobias Hattinger
+- [Felix Lerchner](https://github.com/Chaftalie)
+- [Manuel Weißböck](https://github.com/LetsManu)
+- [Tobias Hattinger](https://github.com/TobiHatti)
 
 ## Downloads:
 Get the latest release [here](https://github.com/TobiHatti/LVS_Lagerverwaltungssystem/releases)
